@@ -33,7 +33,8 @@ function prependKitten (name){
 }
 
 function removeLastKitten ( ){
-  let newKittens = kittens.slice (1, kittens.length() - 1);
+  let wordLength = kittens.length = 
+  let newKittens = kittens.slice (1, wordLength);
   return newKittens
 }
 

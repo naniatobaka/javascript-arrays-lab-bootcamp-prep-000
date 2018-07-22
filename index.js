@@ -7,7 +7,9 @@ function destructivelyAppendKitten(name){
   return kittens
 }
 
-
+function destrictivelyPrependKitten(name){
+  
+}
 
 
 

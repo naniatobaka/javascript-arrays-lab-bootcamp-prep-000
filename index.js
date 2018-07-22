@@ -32,6 +32,8 @@ function prependKitten (name){
   return newArray;
 }
 
-
+function removeLastKitten (){
+  let newKittens = 
+}
 
 

@@ -32,9 +32,9 @@ function prependKitten (name){
   return newArray;
 }
 
-function removeLastKitten (){
-  let newKittens = kittens.slice [0, kittens.length - 1]
-  return newKittens
+function removeLastKitten ( ){
+  let newKittens = kittens.slice [0, kittens.length - 1];
+  return newKittens;
 }
 
 

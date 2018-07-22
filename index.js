@@ -33,7 +33,7 @@ function prependKitten (name){
 }
 
 function removeLastKitten (){
-  let newKittens = 
+  let newKittens = kittens.slice
 }
 
 
